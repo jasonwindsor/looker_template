@@ -25,23 +25,19 @@
     font-weight: 400;
     color: #1E2020;
     padding: 8px;
-    border-bottom: 1px solid #C8CED3;
+    border-bottom: 0px;
   }
   
   .headerCell.dimension {
-    border-right: 1px solid #C8CED3;
   }
   
   .headerCell.pivot {
-    border-right: 1px solid #C8CED3; 
   }
   
   .headerCell.measure {
-    border-left: 1px solid #C8CED3; 
   }
   
   .headerCell.measure.calculation {
-    border-left: 1px solid #C8CED3;
   }
   
   .headerCell.transposed.dimension {
