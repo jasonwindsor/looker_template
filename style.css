@@ -6,10 +6,6 @@
       display: none;
   }
   
-  .hover {
-    background-color: #E8E8E8;
-  }
-  
   .reportTable {
     font-family: Roboto,sans-serif;
     color: #1E2020;
@@ -66,6 +62,10 @@
     border-bottom: 1px solid #C8CED3;
     border-left: 0px;
     border-right: 0px;
+  }
+
+  .rowCell:hover {
+    background-color: #E8E8E8;
   }
   
   .rowCell.merged {
