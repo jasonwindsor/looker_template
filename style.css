@@ -28,7 +28,8 @@
     line-height: 150%;
     color: #1E2020;
     padding: 8px;
-    border: 0px;
+    border-left: 0px;
+    border-right: 0px;
   }
   
   .headerCell.dimension {
