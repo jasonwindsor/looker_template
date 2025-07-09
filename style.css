@@ -13,6 +13,7 @@
     margin: 0;
     padding: 0;
     width: 100%;
+    border-collapse: collapse;
   }
   
   th.headerCell {
@@ -25,7 +26,6 @@
     padding: 8px;
     border-left: 0px;
     border-right: 0px;
-    border-collapse: collapse;
   }
   
   .headerCell.dimension {
