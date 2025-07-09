@@ -56,40 +56,40 @@
   .headerCell.dimension {
     background-color: #E8E8E8;
     border-right: 1px solid #C8CED3; 
-    color: white;
+    color: #1E2020;
 
   }
   
   .headerCell.pivot {
     background-color: #E8E8E8;
     border-right: 1px solid #C8CED3; 
-    color: white;
+    color: #1E2020;
 
   }
   
   .headerCell.measure {
     background-color: #E8E8E8;
     border-left: 1px solid #C8CED3; 
-    color: white;
+    color: #1E2020;
 
   }
   
   .headerCell.measure.calculation {
     background-color: #E8E8E8;
     border-left: 1px solid #C8CED3;
-    color: white;
+    color: #1E2020;
 
   }
   
   .headerCell.transposed.dimension {
     background-color: #E8E8E8;
-    color: white;
+    color: #1E2020;
 
   }
   
   .headerCell.transposed.dimension.merged {
     background-color: #E8E8E8 !important;
-    color: white;
+    color: #1E2020;
 
   }
   
@@ -107,7 +107,7 @@
   } */
   
   .rowCell {
-    vertical-align: super;
+    vertical-align: center;
     padding-left: 5px;
     border-bottom: 1px solid #C8CED3; 
   }
