@@ -15,7 +15,8 @@
     color: #1E2020;
     table-layout: fixed;
     margin: 0;
-    padding:0;
+    padding: 0;
+    width: 100%;
   }
   
   th.headerCell {
