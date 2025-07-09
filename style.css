@@ -24,8 +24,6 @@
     line-height: 150%;
     color: #1E2020;
     padding: 8px;
-    border-left: 0px;
-    border-right: 0px;
   }
   
   .headerCell.dimension {
@@ -60,8 +58,6 @@
     vertical-align: center;
     padding: 8px;
     border-bottom: 1px solid #C8CED3;
-    border-left: 0px;
-    border-right: 0px;
   }
 
   .rowCell:hover {
