@@ -16,6 +16,7 @@
     font-family: Roboto,sans-serif;
     color: #1E2020;
     table-layout: fixed;
+    margin: 0;
   }
   
   th.headerCell {
