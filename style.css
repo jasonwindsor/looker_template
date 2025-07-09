@@ -46,7 +46,9 @@
   
   th.headerCell {
     background-color: #E8E8E8;
-    color: white;
+    font-family: Roboto, sans-serif;
+    Font-size: 16px;
+    color: #1E2020;
     padding: 5px;
     border-bottom: 1px solid #C8CED3;
   }
