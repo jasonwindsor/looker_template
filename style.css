@@ -15,8 +15,6 @@
   .reportTable {
     font-family: Roboto,sans-serif;
     color: #1E2020;
-    border-collapse: collapse;
-    border-spacing: 3px;
     table-layout: fixed;
   }
   
