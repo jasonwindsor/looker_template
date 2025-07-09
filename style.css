@@ -48,61 +48,41 @@
     background-color: #E8E8E8;
     font-family: Roboto, sans-serif;
     Font-size: 16px;
+    font-weight: 400;
     color: #1E2020;
     padding: 5px;
     border-bottom: 1px solid #C8CED3;
   }
   
   .headerCell.dimension {
-    background-color: #E8E8E8;
-    border-right: 1px solid #C8CED3; 
-    color: #1E2020;
-
+    border-right: 1px solid #C8CED3;
   }
   
   .headerCell.pivot {
-    background-color: #E8E8E8;
     border-right: 1px solid #C8CED3; 
-    color: #1E2020;
-
   }
   
   .headerCell.measure {
-    background-color: #E8E8E8;
     border-left: 1px solid #C8CED3; 
-    color: #1E2020;
-
   }
   
   .headerCell.measure.calculation {
-    background-color: #E8E8E8;
     border-left: 1px solid #C8CED3;
-    color: #1E2020;
-
   }
   
   .headerCell.transposed.dimension {
-    background-color: #E8E8E8;
-    color: #1E2020;
-
   }
   
   .headerCell.transposed.dimension.merged {
-    background-color: #E8E8E8 !important;
-    color: #1E2020;
-
   }
   
   /* .headerCell.dimension.headerRow {
-    background-color: #E8E8E8;
     border-right: 1px solid #C8CED3;
   }
   .headerCell.pivot.headerRow {
-    background-color: #E8E8E8;
     border-right: 1px solid #C8CED3;
   }
   .headerCell.measure.headerRow {
-    background-color: #E8E8E8;
     border-left: 1px solid #C8CED3;
   } */
   
