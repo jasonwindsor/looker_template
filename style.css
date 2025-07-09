@@ -27,6 +27,7 @@
     color: #1E2020;
     padding: 8px;
     border-bottom: 0px;
+    border-right: 1px solid #E8E8E8;
   }
   
   .headerCell.dimension {
