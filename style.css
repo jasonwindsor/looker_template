@@ -69,7 +69,7 @@
   }
   
   .indexCell.transposed {
-    font-weight: bold;
+    font-weight: 400;
   }
   
   .indexCell.transposed.pivot {
