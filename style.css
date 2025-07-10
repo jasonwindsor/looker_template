@@ -85,23 +85,23 @@
   }
   
   .indexCell.transposed.calculation {
-    background-color: #c9dfc5;
+    background-color: #1E2020;
   }
   
   .indexCell.transposed.pivot.merged {
-    background-color: #ccd8e4 !important;
+    background-color: #1E2020 !important;
   }
   
   .indexCell.transposed.dimension.merged {
-    background-color: #e4ecf3 !important;
+    background-color: #1E2020 !important;
   }
   
   .indexCell.transposed.measure.merged {
-    background-color: #e4d0bd !important;
+    background-color: #1E2020 !important;
   }
   
   .indexCell.transposed.calculation.merged {
-    background-color: #c9dfc5 !important;
+    background-color: #1E2020 !important;
   }
   
   .nonNumeric {
@@ -125,19 +125,16 @@
   }
   
   .subtotal {
-    font-style: italic;
-    font-weight: bold;
-    background: #D3D3D3;
+    background: #1E2020;
   }
   
   .total {
     border-top: 1px solid #C8CED3 !important;
-    font-weight: bold !important;
   }
   
   .total.transposed {
     border-top: 0px !important;
-    background: #D3D3D3;
+    background: #1E2020;
   }
   
   .rectElem.animated {
