@@ -60,7 +60,7 @@
     border-bottom: 1px solid #C8CED3;
   }
 
-  .row:hover {
+  tr:hover {
     background-color: #E8E8E8;
   }
   
