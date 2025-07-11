@@ -64,8 +64,8 @@
     background-color: #E8E8E8;
   }
 
-  tr:last-child {
-    border-bottom: none; 
+  tr:last-child td{
+    border-bottom:0;
   }
   
   .rowCell.merged {
